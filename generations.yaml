@@ -1,0 +1,15 @@
+references:
+  - "https://en.wikipedia.org/wiki/SEAT_Altea"
+
+generations:
+  - name: "First Generation (Pre-Facelift)"
+    start_year: 2004
+    end_year: 2008
+    description: "Original SEAT Altea compact MPV launched in March 2004. Based on Volkswagen Group's A5 (PQ35) platform. Designed by Walter de Silva as the first example of SEAT's new corporate look. Five trim levels: Essence, Reference, Reference Sport, Stylance, Sport and FR."
+    platform: "Volkswagen Group A5 (PQ35)"
+
+  - name: "First Generation (Facelift)"
+    start_year: 2009
+    end_year: 2015
+    description: "Facelifted SEAT Altea introduced in 2009 with updated exterior styling, interior improvements and new engine options including the 1.2 TSI and 1.6 TDI. Production continued until August 21, 2015 when SEAT announced discontinuation. The Altea XL and Altea Freetrack variants were also produced during this period."
+    platform: "Volkswagen Group A5 (PQ35)"
